@@ -1,0 +1,12 @@
+{
+  "name": "SolPredict",
+  "symbol": "SOP",
+  "image": "https://github.com/0lympe/SolPredict-Metadata/blob/main/Logo.png",
+  "description": "SolPredict (SOP) is a decentralized prediction market platform built on Solana, allowing users to forecast events.",
+  "external_url": "https://solpredict.org",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Category", "value": "Prediction Market" },
+    { "trait_type": "Blockchain", "value": "Solana" }
+  ]
+}
